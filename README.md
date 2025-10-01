@@ -20,7 +20,7 @@ Project bao gồm các phần:
 ---
 
 ## 🗂️ Nội dung chính
-- **ERD**: [erd.puml](./diagrams/erd.puml)  
+- **ERD**: [[erd.puml](./diagrams/erd.puml)](https://github.com/miao0w025/BT-LAB02/blob/main/01%20ENITY%20%26%20ERD/ERD.png)  
 - **Use Case Diagram**: [usecase.puml](./diagrams/usecase.puml)  
 - **Sequence Diagram**:  
   - [Đặt phòng online](./diagrams/seq_booking.puml)  
