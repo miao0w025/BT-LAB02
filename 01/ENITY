@@ -24,3 +24,6 @@ RoomType 1–N Room
 Room 1–N Reservation
 
 Staff 1–N Reservation
+
+- ERD:
+![SƠ ĐỒ ERD](https://github.com/miao0w025/BT-LAB02/blob/main/01/ERD.png)
