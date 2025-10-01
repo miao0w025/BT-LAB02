@@ -1,0 +1,13 @@
+Summary,Issue Type,Priority,Description,Sprint
+"As a Guest, I want to register an account, so that I can book rooms online",Story,Medium,Signup form + DB insert,Sprint 1
+"As a Guest, I want to login, so that I can manage my reservations",Story,Medium,"Login, authentication",Sprint 1
+"As a Guest, I want to search rooms by date and capacity, so that I can find available rooms",Story,High,Search + filter function,Sprint 1
+"As a Guest, I want to view room details, so that I can choose the best option",Story,High,Room details page,Sprint 1
+"As a Guest, I want to make a reservation online, so that I can hold a room",Story,Critical,Reservation hold + confirm,Sprint 2
+"As a Guest, I want to pay online, so that my booking is confirmed",Story,Critical,Payment gateway integration,Sprint 2
+"As a Guest, I want to receive booking confirmation, so that I know my reservation is successful",Story,High,Email service,Sprint 2
+"As a Receptionist, I want to check in guests, so that they can use the room",Story,Critical,Check-in process + assign room,Sprint 3
+"As a Receptionist, I want to check out guests, so that I can finalize payments",Story,Critical,Check-out + invoice,Sprint 3
+"As a Housekeeping staff, I want to update room status, so that availability is accurate",Story,Medium,Mark room clean/dirty,Sprint 4
+"As a Manager, I want to manage room prices, so that I can adjust rates",Story,High,CRUD room & pricing,Sprint 4
+"As a Manager, I want to view revenue reports, so that I can analyze business performance",Story,High,Report dashboard,Sprint 4
