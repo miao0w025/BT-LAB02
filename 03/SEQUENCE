@@ -1,4 +1,4 @@
-Sequence Diagram
+## Sequence Diagram
 a) Luồng Đặt phòng online:
 
 - Guest chọn phòng → hệ thống giữ phòng (hold).
@@ -8,6 +8,8 @@ a) Luồng Đặt phòng online:
 - Thanh toán online → Payment Gateway trả kết quả.
 
 - Hệ thống gửi mail xác nhận.
+
+![seq_diagram_booking](https://github.com/miao0w025/BT-LAB02/blob/main/03/SEQ_BOOKING.png)
 
 b) Luồng Check-in/Check-out (Lễ tân):
 
