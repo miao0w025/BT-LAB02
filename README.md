@@ -23,7 +23,7 @@ Project bao gồm các phần:
 - **ERD**: [(./diagrams/erd.puml)](https://github.com/miao0w025/BT-LAB02/blob/main/01%20ENITY%20%26%20ERD/ERD.png)  
 - **Use Case Diagram**: [(./diagrams/usecase.puml)](https://github.com/miao0w025/BT-LAB02/blob/main/02%20USECASE/UseCase_Diagram.png)  
 - **Sequence Diagram**:  
-  - [[Đặt phòng online](https://github.com/miao0w025/BT-LAB02/blob/main/03%20SEQUENCE%20UML/SEQ_BOOKING.png)  
+  - [Đặt phòng online](https://github.com/miao0w025/BT-LAB02/blob/main/03%20SEQUENCE%20UML/SEQ_BOOKING.png)  
   - [Check-in/Check-out](./diagrams/seq_checkin.puml)  
 - **Jira Backlog**: [jira-backlog.csv](./docs/jira-backlog.csv)  
 - **Sprint Planning**: [jira-sprint-backlog.csv](./docs/jira-sprint-backlog.csv)  
