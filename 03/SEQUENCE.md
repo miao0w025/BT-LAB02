@@ -20,3 +20,5 @@ b) Luồng Check-in/Check-out (Lễ tân):
 - Check-in: gán phòng thực tế, cập nhật trạng thái.
 
 - Check-out: tổng hợp chi phí, cập nhật trạng thái phòng, in hóa đơn.
+
+![seq_diagram_checkinout](https://github.com/miao0w025/BT-LAB02/blob/main/03/SEQ_CHECKIN.png)
