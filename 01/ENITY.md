@@ -1,4 +1,4 @@
-1. Entity & ERD
+## 1. Entity & ERD
 - Các bảng dữ liệu chính:
 
 - Guest(GuestID, Name, Phone, Email, Address)
