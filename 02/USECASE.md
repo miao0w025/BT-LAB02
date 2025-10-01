@@ -15,7 +15,7 @@
 
 - Guest:
 
--- Tìm phòng, xem chi tiết phòng
+Tìm phòng, xem chi tiết phòng
 
 Đặt phòng online
 
@@ -29,16 +29,20 @@ Quản lý đặt phòng (check-in/out offline)
 
 Quản lý khách hàng
 
-Manager:
+- Manager:
 
 Quản lý phòng & giá
 
 Báo cáo doanh thu
 
-Housekeeping:
+- Housekeeping:
 
 Cập nhật trạng thái phòng (sạch/bẩn, sẵn sàng)
 
-Payment Gateway:
+- Payment Gateway:
 
 Xử lý thanh toán
+
+## USECASE DIAGRAM:
+
+![usecase_diagram](https://github.com/miao0w025/BT-LAB02/blob/main/02/UseCase_Diagram.png)
