@@ -25,8 +25,6 @@ Project bao gồm các phần:
 - **Sequence Diagram**:  
   - [Đặt phòng online](https://github.com/miao0w025/BT-LAB02/blob/main/03%20SEQUENCE%20UML/SEQ_BOOKING.png)  
   - [Check-in/Check-out](https://github.com/miao0w025/BT-LAB02/blob/main/03%20SEQUENCE%20UML/SEQ_CHECKIN.png)  
-- **Jira Backlog**: [jira-backlog.csv](./docs/jira-backlog.csv)  
-- **Sprint Planning**: [jira-sprint-backlog.csv](./docs/jira-sprint-backlog.csv)  
 - **Jira link**: [Jira BT LAB02](https://miao0w0.atlassian.net/jira/software/projects/LAB2/boards/67/backlog?atlOrigin=eyJpIjoiZmFmYzUzNWVlZDcyNDAwZDk0MTIwOTgwYjk1MjQ1NDIiLCJwIjoiaiJ9)
 ---
 
