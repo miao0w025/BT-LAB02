@@ -1,21 +1,21 @@
-Use Case Diagram
-Tác nhân:
+## Use Case Diagram
+## Tác nhân:
 
-Guest (Khách hàng)
+- Guest (Khách hàng)
 
-Receptionist (Lễ tân)
+- Receptionist (Lễ tân)
 
-Manager (Quản lý)
+- Manager (Quản lý)
 
-Payment Gateway
+- Payment Gateway
 
-Housekeeping (Buồng phòng)
+- Housekeeping (Buồng phòng)
 
-Use Case chính:
+## Use Case chính:
 
-Guest:
+- Guest:
 
-Tìm phòng, xem chi tiết phòng
+-- Tìm phòng, xem chi tiết phòng
 
 Đặt phòng online
 
@@ -23,7 +23,7 @@ Thanh toán online
 
 Check-in / Check-out
 
-Receptionist:
+- Receptionist:
 
 Quản lý đặt phòng (check-in/out offline)
 
