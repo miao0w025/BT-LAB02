@@ -14,8 +14,8 @@ Project bao gồm các phần:
 ---
 
 ## 👤 Thông tin sinh viên
-- **Họ tên**: [Trần Thanh Hà]  
-- **MSSV**: [N23DCPT018]  
+- **Họ tên**: Trần Thanh Hà
+- **MSSV**: N23DCPT018  
 
 ---
 
@@ -30,29 +30,11 @@ Project bao gồm các phần:
 
 ---
 
-## 🚀 Hướng dẫn sử dụng
-1. Clone repo:
-   ```bash
-   git clone https://github.com/<your-username>/lab02-hotel-booking.git
-Mở các file .puml bằng PlantUML hoặc VSCode plugin để render thành sơ đồ.
+## 📊 Sprint Plan
+- Sprint 1: Auth (Đăng ký/Đăng nhập), Search & Room Details
 
-Import file CSV vào Jira:
+- Sprint 2: Booking, Payment, Email confirmation
 
-jira-backlog.csv → tạo Product Backlog
+- Sprint 3: Check-in & Check-out (Receptionist)
 
-jira-sprint-backlog.csv → phân chia theo Sprint
-
-📊 Sprint Plan
-Sprint 1: Auth (Đăng ký/Đăng nhập), Search & Room Details
-
-Sprint 2: Booking, Payment, Email confirmation
-
-Sprint 3: Check-in & Check-out (Receptionist)
-
-Sprint 4: Housekeeping, Quản lý giá phòng, Báo cáo doanh thu
-
-Smart Commit với Jira
-
-bash
-
-git commit -m "HBS-12 #comment Added booking sequence diagram #time 2h #done"
+- Sprint 4: Housekeeping, Quản lý giá phòng, Báo cáo doanh thu
